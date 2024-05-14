@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1715633190 source:c:\users\javier\desktop\programacion ii\empresa\empresa\src\funciones.cpp
+	"funciones.h"
+	<iostream>
+	<cstring>
+	"empre.h"
+	"ArchivoEmpresa.h"
+	"Municipios.h"
+	"ArchivoMunicipios.h"
+
+1715633190 c:\users\javier\desktop\programacion ii\empresa\empresa\include\funciones.h
+	"Municipios.h"
+
+1714077535 source:c:\users\javier\desktop\programacion ii\empresa\empresa\src\fecha.cpp
+	"fecha.h"
+
+1715034752 c:\users\javier\desktop\programacion ii\empresa\empresa\include\fecha.h
+	<iostream>
+
+1715631992 source:c:\users\javier\desktop\programacion ii\empresa\empresa\main.cpp
+	<iostream>
+	"funciones.h"
+	"ArchivoEmpresa.h"
+	"ArchivoMunicipios.h"
+
+1715633437 c:\users\javier\desktop\programacion ii\empresa\empresa\include\empre.h
+	<cstring>
+	<iostream>
+	"funciones.h"
+	"fecha.h"
+	"Municipios.h"
+	"ArchivoMunicipios.h"
+
+1715633107 source:c:\users\javier\desktop\programacion ii\empresa\empresa\src\empre.cpp
+	"empre.h"
+
+1715566085 c:\users\javier\desktop\programacion ii\empresa\empresa\include\archivoempresa.h
+	<iostream>
+	"empre.h"
+
+1715038440 source:c:\users\javier\desktop\programacion ii\empresa\empresa\src\archivoempresa.cpp
+	"ArchivoEmpresa.h"
+
+1715566496 c:\users\javier\desktop\programacion ii\empresa\empresa\include\municipios.h
+	<cstring>
+	<iostream>
+	"funciones.h"
+
+1715566314 source:c:\users\javier\desktop\programacion ii\empresa\empresa\src\archivomunicipios.cpp
+	"ArchivoMunicipios.h"
+
+1715566063 c:\users\javier\desktop\programacion ii\empresa\empresa\include\archivomunicipios.h
+	"Municipios.h"
+	<cstring>
+	<iostream>
+
+1715629322 source:c:\users\javier\desktop\programacion ii\empresa\empresa\src\municipios.cpp
+	"Municipios.h"
+
